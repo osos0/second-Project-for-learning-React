@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+.HeaderH1 {
+  color: white;
+  background-color: darkcyan;
+  padding: 15px;
+}
+
+.TextP {
+  font-size: 20px;
+}

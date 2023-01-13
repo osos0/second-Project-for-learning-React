@@ -1,12 +1,14 @@
 import React from "react";
 import Header from "./Header";
-import Contante from "./Contante";
+import Text from "./Text";
+import Social from "./Social";
 
 export default function App() {
   return (
-    <div className="contianer">
+    <>
       <Header />
-      <Contante />
-    </div>
+      <Text />
+      <Social />
+    </>
   );
 }
